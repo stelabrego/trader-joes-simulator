@@ -1,12 +1,12 @@
-# Trader Joe's: The End is Nigh
-It's your first day at Trader Joe's. You want to make friends, but you seem to keep saying or doing the wrong thing!
-Everyone wants to work for the best grocery chain in the western world, but *do you have what it takes?!?*
+# Trader Joe's: The Video Game
+It's your first day at Trader Joe's, you know what they say about first impressions. You hope your coworkers like you, but all love must be earned in the cutthroat world of selling food to yuppies.
+
+You want to ring that register bell, but *do you have what it takes?!?*
 
 ## How to Play
-### Mac/Linux:
-Download the latest version of [Python](https://www.python.org/downloads/). The easiest way would be to use a package manager like Homebrew for Mac, or apt for Linux. Open up the terminal, clone this repo, `cd` into `trader-joes/`, and run `python3 trader-joes.py`. Resize the window so it's big.
 
-### Windows (untested):
-Download the latest version of [Python](https://www.python.org/downloads/). Download this repo as zip, unzip it, and open trader-joes.py with Python3. Resize the window so it's big. If this doesn't work, there may not be a way to play it.
+### Mac:
+Copy and paste this command into your terminal and press enter!
+`git clone https://github.com/stelabrego/trader-joes-simulator && python3 trader_joes-simulator/start.py`
 
-*All people and scenarios in this game are purely fictional :)*
+
