@@ -7,6 +7,6 @@ You want to ring that register bell, but *do you have what it takes?!?*
 
 ### Mac:
 Copy and paste this command into your terminal and press enter!
-`git clone https://github.com/stelabrego/trader-joes-simulator && python3 trader_joes-simulator/start.py`
+`git clone https://github.com/stelabrego/trader-joes-simulator && python3 trader-joes-simulator/start.py`
 
 
